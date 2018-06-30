@@ -1,0 +1,20 @@
+{
+    "name": "demiurge-ash/feeds2social",
+    "description": "Feeds to Social Media",
+    "license": "MIT",
+    "type": "project", 
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Feeds2Social\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Shirokov",
+            "email": "demiurge@yandex.ru"
+        }
+    ]
+}
